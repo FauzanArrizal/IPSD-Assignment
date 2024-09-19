@@ -9,6 +9,6 @@
   <tr>
     <td>Fauzan Arrizal</td>
     <td>2311110021</td>
-    <td>SD04-A</td>
+    <td>SD04-01</td>
   </tr>
 </table>
